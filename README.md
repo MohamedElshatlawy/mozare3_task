@@ -1,4 +1,4 @@
-## Wtheq POC
+## Mozare3 POC
   This is a POC for ecommerce application connected to firebase remote config, has local database and realtime ads
 
 # Getting Started
