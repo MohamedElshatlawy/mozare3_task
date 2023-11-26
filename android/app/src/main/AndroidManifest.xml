@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
-        android:label="wteq_demo"
+        android:label="mozare3_demo"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
